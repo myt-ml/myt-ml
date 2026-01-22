@@ -34,7 +34,6 @@ I build Agentic AI systems that don't just run—they close deals. With 20+ year
 *   **DevOps:** Docker, Nginx, CI/CD.
 
 ## 📫 Connect with Me
-*   **Email:** [me@moyusif.com](mailto:me@moyusif.com)
 *   **Project:** Antigravity
 
 *"I don't just write code; I build systems that understand human intent."*
