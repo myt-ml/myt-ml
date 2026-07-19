@@ -1,39 +1,36 @@
-# Hi there, I'm Mohamed Altahan 👋
+# Hi, I'm Mohamed Altahan
 
-### The Hybrid Expert: AI Engineering + Sales Psychology
-I build Agentic AI systems that don't just run—they close deals. With 20+ years of high-stakes business development in the GCC combined with cutting-edge AI engineering, I bridge the gap between technical possibility and business reality.
+I build AI automation — n8n workflows, RAG knowledge assistants, and bilingual Arabic/English voice agents — that take repetitive operations work off your team and keep it off.
 
----
+The automation builder your GCC clients can brief in Arabic and your ops team can run in English — backed by 20 years selling B2B across the UAE, Saudi, Qatar and Egypt, so the systems fit how the region actually works.
 
-## 🚀 Featured Projects
-
-### 🏥 [ai-meta-clinician](https://github.com/myt-ml/ai-meta-clinician)
-**AI-Powered Mental Health Triage System**
-*   **Impact:** A privacy-first, offline-capable triage agent implementing WHO mhGAP guidelines for low-resource regions.
-*   **Tech:** Next.js, WebLLM (Llama-3.2 running locally in-browser), Supabase, Client-side encryption.
-*   **Why it matters:** Demonstrates strict data privacy compliance and the ability to run sophisticated AI models on consumer hardware without server costs.
-
-### 🛠️ [agentops-desk](https://github.com/myt-ml/agentops-desk)
-**Production-Grade Agentic Workflow Platform**
-*   **Impact:** Enterprise-ready dashboard for managing and observing AI agents, designed to reduce support ticket volume by 15-30%.
-*   **Tech:** Python, LangGraph, RAG with re-ranking, Docker, Role-Based Access Control (RBAC).
-*   **Why it matters:**  Moves beyond "chatbots" to reliable, observable business processes. Includes a comprehensive evaluation harness to ensure agent reliability.
-
-### 💬 [pydenic-ai](https://github.com/myt-ml/pydenic-ai)
-**Modern Arabic AI Agent**
-*   **Impact:** A high-performance conversational agent optimized for Modern Standard Arabic (MSA), tailored for regional GCC business needs.
-*   **Tech:** Python, Pydantic AI, Gradio, OpenAI (GPT-4o).
-*   **Why it matters:** Showcases rapid development of culturally aware AI solutions using the latest efficient frameworks.
+أبني أنظمة أتمتة بالذكاء الاصطناعي تعمل بالعربية والإنجليزية.
 
 ---
 
-## 🛠️ Tech Stack
-*   **AI/LLM:** LangChain, LangGraph, Pydantic AI, Flowise, n8n, Vapi.
-*   **Backend:** Python, FastAPI, Supabase, PostgreSQL (pgvector).
-*   **Frontend:** Next.js, TypeScript, Tailwind CSS.
-*   **DevOps:** Docker, Nginx, CI/CD.
+## 🚀 Featured work
 
-## 📫 Connect with Me
-*   **Project:** Antigravity
+### 🏥 [ai-meta-clinician](https://github.com/myt-ml/ai-meta-clinician) — AI-powered mental health triage (bilingual EN/AR)
+Offline-capable triage assistant implementing WHO mhGAP guidelines, with fully separate English / Modern Standard Arabic / Egyptian Arabic interfaces. 134/134 tests passing, local-first inference (Ollama), production-hardened (encryption, crisis detection, audit logging).
 
-*"I don't just write code; I build systems that understand human intent."*
+### 🧾 [dspy-invoice-agent](https://github.com/myt-ml/dspy-invoice-agent) — Invoice extraction with a measurable accuracy score
+Extracts 8 structured fields from free-form invoice text using DSPy + GPT-5-mini, with a documented per-field accuracy metric and GEPA prompt optimization.
+
+### ⚙️ [n8n-automation-library](https://github.com/myt-ml/n8n-automation-library) — Curated production workflows
+A working set of automation built and run in production: web scraping, RAG pipelines, video transcription, lead capture, invoice processing. 84 workflows built, 10+ running live today.
+
+### 🗣️ [pydenic-ai](https://github.com/myt-ml/pydenic-ai) — Arabic conversational AI agent
+A Pydantic AI + Gradio agent that responds exclusively in Modern Standard Arabic — small, real, and running.
+
+### 🏗️ [softecnova-lms](https://github.com/myt-ml/softecnova-lms) — Full-stack learning management system
+React + Node/Express + PostgreSQL/Prisma, with Stripe payments, Zoom live classes, and certificates — proof the automation is built by someone who ships complete software, not just glued-together APIs.
+
+## Infrastructure I run in production
+
+[ai-ops-infrastructure](https://github.com/myt-ml/ai-ops-infrastructure) — n8n + Flowise + Postgres/pgvector, self-hosted on a VPS, serving live chat/RAG demos.
+
+## Tech stack
+
+**AI/LLM:** LangChain, LangGraph, Pydantic AI, DSPy, n8n, Vapi, Flowise · **Backend:** Python, FastAPI, Node/Express, PostgreSQL (pgvector), Prisma · **Frontend:** Next.js, React, TypeScript, Tailwind · **DevOps:** Docker, Nginx, VPS ops
+
+📫 hello@mohamedaltahan.com · [mohamedaltahan.com](https://mohamedaltahan.com) · [LinkedIn](https://www.linkedin.com/in/mohamedaltahan/)
