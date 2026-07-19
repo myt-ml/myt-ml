@@ -1,4 +1,4 @@
-# Hi there, I'm Mo Yusif 👋
+# Hi there, I'm Mohamed Altahan 👋
 
 ### The Hybrid Expert: AI Engineering + Sales Psychology
 I build Agentic AI systems that don't just run—they close deals. With 20+ years of high-stakes business development in the GCC combined with cutting-edge AI engineering, I bridge the gap between technical possibility and business reality.
